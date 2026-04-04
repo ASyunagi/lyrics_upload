@@ -4,17 +4,18 @@
       <ttm:agent type="person" xml:id="v1"/>
       <amll:meta key="ttmlAuthorGithub" value="174598250"/>
       <amll:meta key="ttmlAuthorGithubLogin" value="ASyunagi"/>
-      <amll:meta key="musicName" value="海に化ける"/>
       <amll:meta key="musicName" value="Turn into the sea"/>
-      <amll:meta key="artists" value="花譜"/>
-      <amll:meta key="artists" value="かふ"/>
+      <amll:meta key="musicName" value="海に化ける"/>
       <amll:meta key="artists" value="KAF"/>
+      <amll:meta key="artists" value="kaf"/>
+      <amll:meta key="artists" value="かふ"/>
+      <amll:meta key="artists" value="花譜"/>
       <amll:meta key="artists" value="花谱"/>
-      <amll:meta key="album" value="狂想"/>
       <amll:meta key="album" value="Crazy for you"/>
+      <amll:meta key="album" value="狂想"/>
       <amll:meta key="ncmMusicId" value="2026787176"/>
-      <amll:meta key="qqMusicId" value="399013963"/>
       <amll:meta key="qqMusicId" value="001nZRjJ3ZJu6k"/>
+      <amll:meta key="qqMusicId" value="399013963"/>
       <amll:meta key="spotifyId" value="2Jn0W4GzlrEK6x6aWn59oL"/>
       <amll:meta key="appleMusicId" value="1674704366"/>
       <amll:meta key="isrc" value="JPZ922107087"/>
