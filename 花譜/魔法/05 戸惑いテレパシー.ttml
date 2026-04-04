@@ -4,17 +4,18 @@
       <ttm:agent type="person" xml:id="v1"/>
       <amll:meta key="ttmlAuthorGithub" value="174598250"/>
       <amll:meta key="ttmlAuthorGithubLogin" value="ASyunagi"/>
-      <amll:meta key="musicName" value="戸惑いテレパシー"/>
       <amll:meta key="musicName" value="Confused Telepathy"/>
+      <amll:meta key="musicName" value="戸惑いテレパシー"/>
       <amll:meta key="artists" value="KAF"/>
-      <amll:meta key="artists" value="花譜"/>
+      <amll:meta key="artists" value="kaf"/>
       <amll:meta key="artists" value="かふ"/>
+      <amll:meta key="artists" value="花譜"/>
       <amll:meta key="artists" value="花谱"/>
-      <amll:meta key="album" value="魔法"/>
       <amll:meta key="album" value="Magic"/>
+      <amll:meta key="album" value="魔法"/>
       <amll:meta key="ncmMusicId" value="1501447571"/>
-      <amll:meta key="qqMusicId" value="335543677"/>
       <amll:meta key="qqMusicId" value="000YtCON2mRFQL"/>
+      <amll:meta key="qqMusicId" value="335543677"/>
       <amll:meta key="spotifyId" value="3x8lk44PBCtlfSG0rdxOec"/>
       <amll:meta key="appleMusicId" value="1688520968"/>
       <amll:meta key="isrc" value="JPZ922002069"/>
