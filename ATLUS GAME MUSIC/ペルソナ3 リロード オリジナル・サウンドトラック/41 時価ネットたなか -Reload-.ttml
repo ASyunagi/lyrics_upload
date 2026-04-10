@@ -1,0 +1,44 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:amll="http://www.example.com/ns/amll" xmlns:itunes="http://music.apple.com/lyric-ttml-internal">
+  <head>
+    <metadata>
+      <ttm:agent type="person" xml:id="v1"/>
+      <amll:meta key="ttmlAuthorGithub" value="174598250"/>
+      <amll:meta key="ttmlAuthorGithubLogin" value="ASyunagi"/>
+      <amll:meta key="musicName" value="Tanaka's Amazing Commodities -Reload-"/>
+      <amll:meta key="musicName" value="時価ネットたなか -Reload-"/>
+      <amll:meta key="artists" value="ATLUS GAME MUSIC"/>
+      <amll:meta key="artists" value="ATLUS Sound Team"/>
+      <amll:meta key="artists" value="Persona3 Reload Staff"/>
+      <amll:meta key="artists" value="アトラスサウンドチーム"/>
+      <amll:meta key="artists" value="ペルソナ３ リロード 開発スタッフ一同"/>
+      <amll:meta key="album" value="Persona 3 Reload (Original Soundtrack)"/>
+      <amll:meta key="album" value="Persona 3 Reload Original Soundtrack"/>
+      <amll:meta key="album" value="ペルソナ3 リロード オリジナル・サウンドトラック"/>
+      <amll:meta key="ncmMusicId" value="2123807728"/>
+      <amll:meta key="qqMusicId" value="003MPC1N0hcGVz"/>
+      <amll:meta key="qqMusicId" value="473302370"/>
+      <amll:meta key="spotifyId" value="6wfzeflw9af864dHxkQsXW"/>
+      <amll:meta key="appleMusicId" value="1733409157"/>
+      <amll:meta key="isrc" value="JPK652300209"/>
+    </metadata>
+  </head>
+  <body dur="01:27.620">
+    <div begin="00:00.490" end="01:27.620">
+      <p begin="00:00.490" end="00:01.030" ttm:agent="v1" itunes:key="L1"><span begin="00:00.490" end="00:00.630">あ</span><span begin="00:00.630" end="00:00.760">な</span><span begin="00:00.760" end="00:00.880">た</span><span begin="00:00.880" end="00:01.030">の</span><span ttm:role="x-translation" xml:lang="zh-CN">你的</span><span ttm:role="x-roman">Anata no</span></p>
+      <p begin="00:01.500" end="00:02.010" ttm:agent="v1" itunes:key="L2"><span begin="00:01.500" end="00:01.630">テ</span><span begin="00:01.630" end="00:01.760">レ</span><span begin="00:01.760" end="00:01.890">ビ</span><span begin="00:01.890" end="00:02.010">に</span><span ttm:role="x-translation" xml:lang="zh-CN">电视里的</span><span ttm:role="x-roman">Terebi ni</span></p>
+      <p begin="00:02.490" end="00:04.350" ttm:agent="v1" itunes:key="L3"><span begin="00:02.490" end="00:02.630">時</span><span begin="00:02.630" end="00:02.770">価</span><span begin="00:02.770" end="00:02.880">ネ</span><span begin="00:02.880" end="00:02.990">ッ</span><span begin="00:02.990" end="00:03.110">ト</span><span begin="00:03.110" end="00:03.250">た</span><span begin="00:03.250" end="00:03.380">な</span><span begin="00:03.380" end="00:04.350">かー</span><span ttm:role="x-translation" xml:lang="zh-CN">时价网田中</span><span ttm:role="x-roman">Jika netto tanakaa</span></p>
+      <p begin="00:04.470" end="00:06.230" ttm:agent="v1" itunes:key="L4"><span begin="00:04.470" end="00:04.760">み</span><span begin="00:04.760" end="00:04.790">・</span><span begin="00:05.010" end="00:05.260">ん</span><span begin="00:05.260" end="00:05.290">・</span><span begin="00:05.500" end="00:05.760">な</span><span begin="00:05.760" end="00:05.790">・</span><span begin="00:06.000" end="00:06.230">の</span><span ttm:role="x-translation" xml:lang="zh-CN">大・家・的</span><span ttm:role="x-roman">Mi・n・na・no t</span></p>
+      <p begin="00:06.500" end="00:07.610" ttm:agent="v1" itunes:key="L5"><span begin="00:06.500" end="00:06.660">よ</span><span begin="00:06.760" end="00:07.010">く</span><span begin="00:07.010" end="00:07.250">のー</span><span begin="00:07.250" end="00:07.400">と</span><span begin="00:07.400" end="00:07.580">も</span><span begin="00:07.580" end="00:07.610">っ</span><span ttm:role="x-translation" xml:lang="zh-CN">欲望之友</span><span ttm:role="x-roman">Yoku noo tomo</span></p>
+      <p begin="00:40.450" end="00:41.020" ttm:agent="v1" itunes:key="L6"><span begin="00:40.450" end="00:40.600">あ</span><span begin="00:40.600" end="00:40.740">な</span><span begin="00:40.740" end="00:40.880">た</span><span begin="00:40.880" end="00:41.020">の</span><span ttm:role="x-translation" xml:lang="zh-CN">你的</span><span ttm:role="x-roman">Anata no</span></p>
+      <p begin="00:41.480" end="00:42.020" ttm:agent="v1" itunes:key="L7"><span begin="00:41.480" end="00:41.630">テ</span><span begin="00:41.630" end="00:41.760">レ</span><span begin="00:41.760" end="00:41.890">ビ</span><span begin="00:41.890" end="00:42.020">に</span><span ttm:role="x-translation" xml:lang="zh-CN">电视里的</span><span ttm:role="x-roman">Terebi ni</span></p>
+      <p begin="00:42.460" end="00:44.260" ttm:agent="v1" itunes:key="L8"><span begin="00:42.460" end="00:42.620">時</span><span begin="00:42.620" end="00:42.760">価</span><span begin="00:42.760" end="00:42.880">ネ</span><span begin="00:42.880" end="00:42.980">ッ</span><span begin="00:42.980" end="00:43.120">ト</span><span begin="00:43.120" end="00:43.230">た</span><span begin="00:43.230" end="00:43.380">な</span><span begin="00:43.380" end="00:44.260">かー</span><span ttm:role="x-translation" xml:lang="zh-CN">时价网田中</span><span ttm:role="x-roman">Jika netto tanakaa</span></p>
+      <p begin="00:44.460" end="00:46.210" ttm:agent="v1" itunes:key="L9"><span begin="00:44.460" end="00:44.760">か</span><span begin="00:44.760" end="00:44.790">・</span><span begin="00:45.030" end="00:45.260">う</span><span begin="00:45.260" end="00:45.290">・</span><span begin="00:45.500" end="00:45.760">の</span><span begin="00:45.760" end="00:45.790">・</span><span begin="00:45.990" end="00:46.210">は</span><span ttm:role="x-translation" xml:lang="zh-CN">要・买・的・话</span><span ttm:role="x-roman">Ka・u・no・wa</span></p>
+      <p begin="00:46.460" end="00:47.620" ttm:agent="v1" itunes:key="L10"><span begin="00:46.460" end="00:46.730">い</span><span begin="00:46.730" end="00:46.940">ま</span><span begin="00:46.940" end="00:47.100">しー</span><span begin="00:47.100" end="00:47.220">か</span><span begin="00:47.220" end="00:47.370">な</span><span begin="00:47.370" end="00:47.590">い</span><span begin="00:47.590" end="00:47.620">っ</span><span ttm:role="x-translation" xml:lang="zh-CN">只有现在了</span><span ttm:role="x-roman">Ima shiikanai t</span></p>
+      <p begin="01:20.490" end="01:21.030" ttm:agent="v1" itunes:key="L11"><span begin="01:20.490" end="01:20.610">あ</span><span begin="01:20.610" end="01:20.750">な</span><span begin="01:20.750" end="01:20.880">た</span><span begin="01:20.880" end="01:21.030">の</span><span ttm:role="x-translation" xml:lang="zh-CN">你的</span><span ttm:role="x-roman">Anata no</span></p>
+      <p begin="01:21.490" end="01:22.020" ttm:agent="v1" itunes:key="L12"><span begin="01:21.490" end="01:21.630">テ</span><span begin="01:21.630" end="01:21.750">レ</span><span begin="01:21.750" end="01:21.890">ビ</span><span begin="01:21.890" end="01:22.020">に</span><span ttm:role="x-translation" xml:lang="zh-CN">电视里的</span><span ttm:role="x-roman">Terebi ni</span></p>
+      <p begin="01:22.490" end="01:24.390" ttm:agent="v1" itunes:key="L13"><span begin="01:22.490" end="01:22.630">時</span><span begin="01:22.630" end="01:22.770">価</span><span begin="01:22.770" end="01:22.880">ネ</span><span begin="01:22.880" end="01:22.990">ッ</span><span begin="01:22.990" end="01:23.110">ト</span><span begin="01:23.110" end="01:23.250">た</span><span begin="01:23.250" end="01:23.380">な</span><span begin="01:23.380" end="01:24.390">かー</span><span ttm:role="x-translation" xml:lang="zh-CN">时价网田中</span><span ttm:role="x-roman">Jika netto tanakaa</span></p>
+      <p begin="01:24.470" end="01:26.250" ttm:agent="v1" itunes:key="L14"><span begin="01:24.470" end="01:24.760">み</span><span begin="01:24.760" end="01:24.790">・</span><span begin="01:25.020" end="01:25.260">ん</span><span begin="01:25.260" end="01:25.290">・</span><span begin="01:25.500" end="01:25.760">な</span><span begin="01:25.760" end="01:25.790">・</span><span begin="01:26.000" end="01:26.250">の</span><span ttm:role="x-translation" xml:lang="zh-CN">大・家・的</span><span ttm:role="x-roman">Mi・n・na・no</span></p>
+      <p begin="01:26.500" end="01:27.620" ttm:agent="v1" itunes:key="L15"><span begin="01:26.500" end="01:26.660">よ</span><span begin="01:26.760" end="01:27.010">く</span><span begin="01:27.010" end="01:27.240">のー</span><span begin="01:27.240" end="01:27.400">と</span><span begin="01:27.400" end="01:27.590">も</span><span begin="01:27.590" end="01:27.620">っ</span><span ttm:role="x-translation" xml:lang="zh-CN">欲望之友</span><span ttm:role="x-roman">Yoku noo tomo t</span></p>
+    </div>
+  </body>
+</tt>
