@@ -5,9 +5,14 @@
       <ttm:agent type="other" xml:id="v2"/>
       <amll:meta key="ttmlAuthorGithub" value="174598250"/>
       <amll:meta key="ttmlAuthorGithubLogin" value="ASyunagi"/>
+      <amll:meta key="musicName" value="Montage"/>
       <amll:meta key="musicName" value="モンタージュ"/>
       <amll:meta key="artists" value="KAF"/>
+      <amll:meta key="artists" value="kaf"/>
+      <amll:meta key="artists" value="かふ"/>
       <amll:meta key="artists" value="花譜"/>
+      <amll:meta key="artists" value="花谱"/>
+      <amll:meta key="album" value="Magic"/>
       <amll:meta key="album" value="魔法"/>
       <amll:meta key="ncmMusicId" value="1501447574"/>
       <amll:meta key="qqMusicId" value="001OF37R2m3h3f"/>
