@@ -4,11 +4,17 @@
       <ttm:agent type="person" xml:id="v1"/>
       <amll:meta key="ttmlAuthorGithub" value="174598250"/>
       <amll:meta key="ttmlAuthorGithubLogin" value="ASyunagi"/>
+      <amll:meta key="musicName" value="Answer"/>
       <amll:meta key="musicName" value="アンサー"/>
       <amll:meta key="artists" value="KAF"/>
+      <amll:meta key="artists" value="kaf"/>
+      <amll:meta key="artists" value="かふ"/>
       <amll:meta key="artists" value="花譜"/>
+      <amll:meta key="artists" value="花谱"/>
+      <amll:meta key="album" value="Magic"/>
       <amll:meta key="album" value="魔法"/>
       <amll:meta key="ncmMusicId" value="1501450519"/>
+      <amll:meta key="qqMusicId" value="000qqSEZ0OMxiS"/>
       <amll:meta key="qqMusicId" value="335544248"/>
       <amll:meta key="spotifyId" value="5w3rC66HQ8fQWg2V3gepdS"/>
       <amll:meta key="appleMusicId" value="1688520966"/>
